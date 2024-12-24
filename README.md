@@ -11,7 +11,7 @@
 
 1. [Advent of Cyber 2024 - THM](#aoc)
 
-1. [Career Essentials in Cybersecurity by Microsoft and LinkedIn](#m&l)
+1. [Career Essentials in Cybersecurity by Microsoft and LinkedIn](#ml)
 
 1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
 
@@ -24,38 +24,34 @@
 
 </details>
 
-<a id="cap"></a>
+<a id="eh"></a>
 ## CISCO Verified Ethical Hacker
 
 ![CISCO Verified Ethical Hacker](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CISCO%20Cetified%20Ethical%20Hacker.jpg)
 
-<a id="poo"></a>
-## HackTheBox Pro Lab P.O.O.
+<a id="ctm"></a>
+## CISCO Cyber Threat Management
 
-![HackTheBox Pro Lab P.O.O.](https://github.com/YuklidD/YuklidD/blob/main/Assets/HTB%20Pro%20Lab%20P.O.O..png)
+![CISCO Cyber Threat Management](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CISCO%20Cyber%20TM.jpg)
 
-<a id="cisconet"></a>
-## Network Support and Security
+<a id="aoc"></a>
+## Advent of Cyber 2024 - THM
 
-![Network Support and Security](https://github.com/YuklidD/YuklidD/blob/main/Assets/Network%20Support%20and%20Security.png)
+![Advent of Cyber 2024 - THM](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/Advent%20of%20Cyber%202024.jpg)
 
-<a id="cnsp"></a>
-## Certified Network Security Practitioner (CNSP)
 
-![Certified Network Security Practitioner (CNSP)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Certified%20Network%20Security%20Practitioner%20(CNSP).png)
+<a id="ml"></a>
+## Career Essentials in Cybersecurity by Microsoft and LinkedIn
 
-<a id="micro"></a>
-## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
-
-![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/a0fcb30b41e22030b22783cfeb49a4148d0daf19/Assets/Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals%20(SC-900).png)
+![Career Essentials in Cybersecurity by Microsoft and LinkedIn](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.jpg)
 
 <a id="oracle"></a>
 ## Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
 
-![Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://github.com/YuklidD/YuklidD/blob/main/Assets/%20Oracle%20Cloud%20Infrastructure%202023%20AI%20Certified%20Foundations%20Associate.png)
+![Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]()
 
 <a id="thmcom"></a>
 ## THM-CompTIA Pentest+
 
-![THM-CompTIA Pentest+](https://github.com/YuklidD/YuklidD/blob/main/Assets/THM-RM98LT7VK1.png)
+![THM-CompTIA Pentest+]()
 
