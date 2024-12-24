@@ -5,13 +5,13 @@
 <summary><b>(click to expand or hide)</b></summary>  
 
 
-1. [Certified AppSec Practitioner (CAP)](#cap)
+1. [CISCO Ethical Hacker](#eh)
 
-1. [HackTheBox Pro Lab P.O.O.](#poo)
+1. [CISCO Cyber Threat Management](#ctm)
 
-1. [Network Support and Security](#cisconet)
+1. [Advent of Cyber 2024 - THM](#aoc)
 
-1. [Certified Network Security Practitioner (CNSP)](#cnsp)
+1. [Career Essentials in Cybersecurity by Microsoft and LinkedIn](#m&l)
 
 1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
 
