@@ -27,7 +27,7 @@
 <a id="cap"></a>
 ## CISCO Verified Ethical Hacker
 
-![CISCO Verified Ethical Hack](https://github.com/YuklidD/YuklidD/blob/main/Assets/Certified%20AppSec%20Practitioner%20(CAP).png)
+![CISCO Verified Ethical Hacker](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CISCO%20Cetified%20Ethical%20Hacker.jpg)
 
 <a id="poo"></a>
 ## HackTheBox Pro Lab P.O.O.
