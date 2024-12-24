@@ -26,6 +26,16 @@
 1. [Ethical Hacking: Session Hijacking](#ehsh)
 
 1. [Project Leadership](#pl)
+
+1. [Cybersecurity Awareness Cybersecurity Terminology](#cact)
+
+1. [Microsoft Security Copilot](#msc)
+
+1. [The Cybersecurity Threat Landscape](#tctl)
+
+1. [Cybersecurity Foundations](#cf)
+
+   
    
 
 
@@ -96,5 +106,34 @@
 ## Project Leadership
 
 ![Project Leadership](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CertificateOfCompletion_Project%20Leadership.jpg)
+
+
+<a id="cact"></a>
+## Cybersecurity Awareness Cybersecurity Terminology
+
+![Cybersecurity Awareness Cybersecurity Terminology](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Cybersecurity%20Awareness%20Cybersecurity%20Terminology.jpg)
+
+
+<a id="msc"></a>
+## Microsoft Security Copilot
+
+![Microsoft Security Copilot](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Microsoft%20Security%20Copilot.jpg)
+
+
+<a id="tctl"></a>
+## The Cybersecurity Threat Landscape
+
+![The Cybersecurity Threat Landscape](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/The%20Cybersecurity%20Threat%20Landscape.jpg)
+
+
+<a id="cf"></a>
+## Cybersecurity Foundations
+
+![Cybersecurity Foundations](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Cybersecurity%20Foundations.jpg)
+
+<a id=""></a>
+## 
+
+![]()
 
 
