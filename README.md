@@ -1,4 +1,3 @@
-# Certificates
 # CERTIFICATES
 
 ## Table of Certificates
