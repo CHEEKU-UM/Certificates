@@ -13,6 +13,8 @@
 
 1. [Career Essentials in Cybersecurity by Microsoft and LinkedIn](#ml)
 
+1. [Offensive Penetration Testing](#opt)
+   
 1. [Artificial Intelligence for Cybersecurity](#aic)
 
 1. [Offensive Security Operations](#oso)
@@ -64,6 +66,12 @@
 ## Career Essentials in Cybersecurity by Microsoft and LinkedIn
 
 ![Career Essentials in Cybersecurity by Microsoft and LinkedIn](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.jpg)
+
+
+<a id="opt"></a>
+## Offensive Penetration Testing
+
+![Offensive Penetration Testing](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/cybrary-cert-offensive-penetration-testing.jpg)
 
 
 <a id="aic"></a>
