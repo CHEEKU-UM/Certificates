@@ -19,11 +19,15 @@
 
 1. [Offensive Security Operations](#oso)
 
+1. [Advent of Cyber 2023 - THM](#aoc23)
+
 1. [Security Engineering and Cyber Risk](#sec)
 
 1. [Automation with Python and PowerShell for IT and Cybersecurity](#appic)
 
 1. [Ethical Hacking: Cryptography](#ehc)
+
+1. [Linux 100: Fundementals](#l100)
 
 1. [Ethical Hacking: Session Hijacking](#ehsh)
 
@@ -36,6 +40,9 @@
 1. [The Cybersecurity Threat Landscape](#tctl)
 
 1. [Cybersecurity Foundations](#cf)
+
+1. [Android Bug Bounty Hunting Hunt Like a Rat](#abbhlr)
+
 
    
    
@@ -86,6 +93,12 @@
 ![Offensive Security Operations](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/Offensive%20Security%20Operations.jpg)
 
 
+<a id="aoc23"></a>
+## Advent of Cyber 2023 - THM
+
+![Advent of Cyber 2023 - THM](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Advent%20of%20Cyber%202023.jpg)
+
+
 <a id="sec"></a>
 ## Security Engineering and Cyber Risk
 
@@ -102,6 +115,11 @@
 ## Ethical Hacking: Cryptography
 
 ![Ethical Hacking: Cryptography](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/Ethical%20Hacking%20Cryptography.jpg)
+
+<a id="l100"></a>
+## Linux 100: Fundementals
+
+![Linux 101 Fundemental](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Linux%20101%20Fundemental.jpg)
 
 
 <a id="ehsh"></a>
@@ -138,6 +156,18 @@
 ## Cybersecurity Foundations
 
 ![Cybersecurity Foundations](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Cybersecurity%20Foundations.jpg)
+
+<a id="abbhlr"></a>
+## Android Bug Bounty Hunting Hunt Like a Rat
+
+![Android Bug Bounty Hunting Hunt Like a Rat](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Android%20Bug%20Bounty%20Hunting%20Hunt%20Like%20a%20Rat.png)
+
+
+<a id=""></a>
+## 
+
+![]()
+
 
 <a id=""></a>
 ## 
