@@ -33,9 +33,13 @@
 
 1. [Project Leadership](#pl)
 
+1. [Advent of Cyber 2022 - THM](#aoc22)
+
 1. [Cybersecurity Awareness Cybersecurity Terminology](#cact)
 
 1. [Microsoft Security Copilot](#msc)
+
+1. [Programing 100 Fundemental](#p100)
 
 1. [The Cybersecurity Threat Landscape](#tctl)
 
@@ -134,6 +138,12 @@
 ![Project Leadership](https://github.com/CHEEKU-UM/Certificates/blob/main/Images/CertificateOfCompletion_Project%20Leadership.jpg)
 
 
+<a id="aoc22"></a>
+## Advent of Cyber 2022 - THM
+
+![Advent of Cyber 2022 - THM](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Advent%20of%20Cyber%202022.jpg)
+
+
 <a id="cact"></a>
 ## Cybersecurity Awareness Cybersecurity Terminology
 
@@ -144,6 +154,12 @@
 ## Microsoft Security Copilot
 
 ![Microsoft Security Copilot](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Microsoft%20Security%20Copilot.jpg)
+
+
+<a id="p100"></a>
+## Programing 100 Fundemental
+
+![Programing 100 Fundemental](https://github.com/bl4ckArch9r/Certificates/blob/main/Images/Programing%20101%20Fundemental.jpg)
 
 
 <a id="tctl"></a>
